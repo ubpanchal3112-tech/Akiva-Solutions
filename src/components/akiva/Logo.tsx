@@ -13,7 +13,7 @@ export function AkivaLogo({
       alt="Akiva Solutions"
       className={cn(
         "w-auto object-contain",
-        compact ? "h-18" : "h-18",
+        compact ? "h-10" : "h-10",
         className,
       )}
     />
